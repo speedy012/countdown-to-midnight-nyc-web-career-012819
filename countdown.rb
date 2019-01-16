@@ -9,7 +9,8 @@ def countdown(some_int)
 end
 
 def countdown_with_sleep(sec)
-  
+  sleep sec
+end
   
 
 
